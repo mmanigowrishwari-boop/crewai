@@ -5,3 +5,4 @@ ddgs
 beautifulsoup4
 requests
 pandas
+tiktoken>=0.7.0
